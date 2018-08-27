@@ -13,4 +13,4 @@ About
 传送门：前端项目地址 、 后台系统地址 、 原生APP项目地址
 
 技术栈
-vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui
+vue2 + vuex + vue-router + webpack + ES6/7+ element-ui
